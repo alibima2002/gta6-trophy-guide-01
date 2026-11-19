@@ -1,5 +1,1 @@
-[
-  { "file": "1-checklist.jpg", "path": "/", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "2-silver.jpg", "path": "/", "grade": "silver", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "3-bronze.jpg", "path": "/", "grade": "bronze", "scroll": 1400, "viewport": { "width": 1280, "height": 800 } }
-]
+[{"file":"1-checklist.jpg","note":"Checklist with the guide pane open on The Shootist — official name, description and grade, PSN target, guide and sources — spoilers on, so hidden rows are masked","path":"/","seed":"13 of 55 earned","viewport":{"height":800,"width":1280}},{"file":"2-roadmap.jpg","note":"Platinum roadmap: seven stages in play order with per-stage progress","path":"/","seed":"13 of 55 earned","view":"roadmap","viewport":{"height":800,"width":1280}},{"file":"3-missables.jpg","note":"Missables view: Positive Mental Attitude flagged with its save advice","path":"/","seed":"13 of 55 earned","view":"missables","viewport":{"height":800,"width":1280}},{"file":"4-spoilers-off.jpg","note":"Checklist with spoilers off: the hidden story trophies revealed, kind filter on Story","path":"/","seed":"13 of 55 earned","spoilers":false,"view":"checklist","viewport":{"height":800,"width":1280}}]
